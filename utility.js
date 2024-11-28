@@ -1,4 +1,4 @@
-// Utility.js - A collection of developer utility functions
+// Lumin.js - A collection of developer utility functions
 
 let cl = console.log;
 
