@@ -1,3 +1,4 @@
+![Banner](src/assets/Lumin.js.png)
 # Lumin.js Documentation
 
 Lumin.js is a modular JavaScript utility library designed to simplify and enhance array, string, and mathematical operations. With a well-structured design and extensive functionality, Lumin.js is the perfect toolkit for developers looking to improve productivity and streamline common programming tasks.
