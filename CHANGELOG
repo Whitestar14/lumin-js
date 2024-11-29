@@ -1,0 +1,25 @@
+# Lumin.js Changelog
+## v1.2.0
+### Added
+- Added `countChar`, `stringify`, `reverseString`, `textSimilarity`, `obfuscate`, `stripWhitespace`, `isPalindrome`, `wordCount`, `truncate`, `capitalizeWords` to uStr class.
+- Added `distance`, `angle`, `mean`, `median`, `mode`, `gcd`, `lcm`, `mapRange`, `isPrime`, `generatePrimes`, `degreesToRadians`, `radiansToDegree` functions to `uMath` class.
+
+### Fixed
+- Fixed `factorial` to handle negative values.
+  
+### Removed
+- Deprecated `random` in `uMath` class for `randomInt`, `randomFloat` and `randomChoice`
+  
+
+## v1.1.0
+### Added
+- Expanded uStr with string-related functions.
+- Expanded uArr with array-related functions.
+- Expanded uMath with math-related functions.
+
+### Fixed
+- Refractored the codebase with cleaner and vunerability-proof code.
+  
+## v1.0.0
+### Added
+- Basic Lumin.js utility functions.
