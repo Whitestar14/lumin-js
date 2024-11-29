@@ -1,4 +1,20 @@
 # Lumin.js Changelog
+## v2.0.0
+### Added
+- Modularised functions and classes, making it easy to modify.
+- Organized into clear files and directories for utilities and modules
+- utils functions like `common.js` and `validation.js`to ensure consistently shared logic
+- Improved the `flatten` logic by including a `depth` parameter
+
+### Fixed
+- Renamed the `reverseString` function to the less verbose `reverse`
+- Renamed the `capitalizeWords` to the less verbose `capitalize`
+- Ensured typesafety by validating inputs on datatypes
+  
+### Removed
+- Removed the `gcd` and `lcm` functions in `uMath` module.
+- `@deprecated` Dropped the `levenshtein Distance` logic for a simpler cosine similarity.
+  
 ## v1.2.0
 ### Added
 - Added `countChar`, `stringify`, `reverseString`, `textSimilarity`, `obfuscate`, `stripWhitespace`, `isPalindrome`, `wordCount`, `truncate`, `capitalizeWords` to uStr class.
