@@ -1,6 +1,6 @@
 {
   "name": "lumin.js",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "Lumin.js is a modular JavaScript utility library designed to simplify and enhance array, string, and mathematical operations. With a well-structured design and extensive functionality, Lumin.js is the perfect toolkit for developers looking to improve productivity and streamline common programming tasks.",
   "main": "index.js",
   "scripts": {
